@@ -6,9 +6,15 @@
 - work flow
 
 ## 技术栈
-- react
-- redux
-- redux-saga
-- antd
-- nextjs
-- graphql
+FrondEnd
+- [ ] react
+- [ ] redux
+- [ ] redux-saga
+- [ ] reselect
+- [ ] antd
+- [ ] scss
+
+BackEnd
+- [ ] nextjs
+- [ ] graphql
+- [ ] typescript
